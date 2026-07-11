@@ -1,0 +1,3 @@
+COS201,School of Computing 1,2
+GST101,Use of English,3
+MTH101,General Mathematics 1,9
